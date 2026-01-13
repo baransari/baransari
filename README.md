@@ -19,7 +19,7 @@
 ---
 
 ### 📫 How to reach me
-- 📧 Email: **baransari34@gmail.com**  
+- 📧 Email: **barransari01@gmail.com**  
 - 💻 GitHub: https://github.com/baransari  
 
 ---
