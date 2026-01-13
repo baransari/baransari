@@ -7,6 +7,6 @@
 ---
 
 ### 📫 How to reach me
-- 📧 Email: baransari34@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/baransari
+- 📧 Email: barransaari01@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/baran-sar%C4%B1-01091724b/
 - 🌐 GitHub: https://github.com/baransari
