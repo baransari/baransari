@@ -20,13 +20,9 @@
 
 ### 📫 How to reach me
 - 📧 Email: **barransari01@gmail.com**  
-- 💻 GitHub: https://github.com/baransari  
+- 💻 Linkedn: https://www.linkedin.com/in/baran-sar%C4%B1-01091724b/?trk=opento_sprofile_details  
 
 ---
 
-### 📊 GitHub Stats
-![Baran's GitHub stats](https://github-readme-stats.vercel.app/api?username=baransari&show_icons=true&theme=dark)
-
----
 
 ⭐️ Thank you for visiting my profile!
